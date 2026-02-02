@@ -17,7 +17,7 @@ const siteConfig = {
       'I have basic technical skills in Microsoft Excel, Python, and SQL, which I am currently actively seeking to develop through academic coursework, self-study, and projects in data analysis.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
+    tagline: 'avanapaik@gmail.com',
     location: 'Kolkata, India',
   },
 
