@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Avana Paik',
     title: 'Tired Student | Your Role',
-    image: getAsset('profilepic_github.png'), // Customize or replace with your profile image
+    image: getAsset('images/profilepic_github.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
