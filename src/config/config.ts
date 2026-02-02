@@ -10,15 +10,15 @@ const siteConfig = {
     title: 'Student | Bsc Economics with Data Science',
     image: getAsset('images/profilepic_github.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am Avana Paik, a first-year undergraduate student studying for a B.Sc. in Economics with Data Science at Christ University,\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      ' primarily motivated by my interest in exploring the complex relationships between human behaviour, data, and technology, and their subsequent impact on economic outcomes.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I have basic technical skills in Microsoft Excel, Python, and SQL, which I am currently actively seeking to develop through academic coursework, self-study, and projects in data analysis.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    location: 'Kolkata, India',
   },
 
   seo: {
