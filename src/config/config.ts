@@ -108,8 +108,8 @@ const siteConfig = {
   projects: [
     {
       title: 'Project Title 1',
-      cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Short description of your project and what it does...',
+      cardImage: getAsset('images/project/macro_cia3.pdf'),
+      description: 'Conducted a comparative analysis of India and Japan using key macroeconomic indicators including inflation, government expenditure, lending interest rates, GDP growth, and GDP per capita to examine differences in fiscal policy, monetary conditions, and economic development trajectories.',
       Githublink: 'https://github.com/your-username/your-project',
     },
     {
