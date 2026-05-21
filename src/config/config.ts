@@ -113,10 +113,10 @@ const siteConfig = {
       Githublink: '/macro_cia3.pdf',
     },
     {
-      title: 'Project Title 2',
+      title: 'From Education Gains to Employment Gaps: Female Labour Force Participation in India',
       cardImage: getAsset('images/project/placeholder.png'),
-      description: 'Another project summary...',
-      Githublink: 'https://github.com/your-username/another-project',
+      description: 'This project explores the disconnect between rising female education levels and persistently low female labour force participation in India. Using data visualization and graphical analysis, the study examines employment trends, socio-economic barriers, and structural challenges affecting women’s participation in the workforce.',
+      Githublink: '/SEM2-CIA1-DV.png',
     },
   ],
 
