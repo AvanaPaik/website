@@ -15,8 +15,7 @@ const siteConfig = {
       ' primarily motivated by my interest in exploring the complex relationships between human behaviour, data, and technology, and their subsequent impact on economic outcomes.\n' +
       '\n' +
       'I have basic technical skills in Microsoft Excel, Python, and SQL, which I am currently actively seeking to develop through academic coursework, self-study, and projects in data analysis.\n' +
-      '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
+      '\n' 
     tagline: 'Aspiring Economist & Data Analyst | Learning, Researching, and Building Impact',
     location: 'Kolkata, India',
   },
