@@ -50,18 +50,18 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Carmel High School',
+      degree: 'Completed Higher Secondary Education',
+      year: '2025',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Brief description of your focus or thesis'],
+      
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'Christ Unuversity,Bangalore',
+      degree: 'Undergraduate',
+      year: '2025-2028',
       image: getAsset('images/education/placeholder.png'),
-      description: ['Key topics or skills learned'],
+      description: ['Currently pursuing undergraduate studies in Bsc Economincs with Data Science'],
     },
   ],
 
