@@ -114,6 +114,12 @@ const siteConfig = {
     {
       title: 'From Education Gains to Employment Gaps: Female Labour Force Participation in India',
       cardImage: getAsset('images/project/placeholder.png'),
+      description: ' An urban development case study examining unequal accessibility in Jayanagar, Bengaluru through Amartya Sen's Capability Approach, with policy recommendations for creating more inclusive and universally accessible public infrastructure.',
+      Githublink: 'public/Women_job.jpeg',
+    },
+     {
+      title: 'From Education Gains to Employment Gaps: Female Labour Force Participation in India',
+      cardImage: getAsset('images/project/placeholder.png'),
       description: 'This project explores the disconnect between rising female education levels and persistently low female labour force participation in India. Using data visualization and graphical analysis, the study examines employment trends, socio-economic barriers, and structural challenges affecting women’s participation in the workforce.',
       Githublink: 'public/Women_job.jpeg',
     },
