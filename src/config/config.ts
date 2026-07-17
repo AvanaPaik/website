@@ -121,7 +121,7 @@ const siteConfig = {
       title: 'From Education Gains to Employment Gaps: Female Labour Force Participation in India',
       cardImage: getAsset('images/project/placeholder.png'),
       description: 'This project explores the disconnect between rising female education levels and persistently low female labour force participation in India. Using data visualization and graphical analysis, the study examines employment trends, socio-economic barriers, and structural challenges affecting women’s participation in the workforce.',
-      Githublink: 'public/Women_job.jpeg',
+      Githublink: '2533325_2533316Jayanagar_Audit_Scorecard.html',
     },
   ],
 
